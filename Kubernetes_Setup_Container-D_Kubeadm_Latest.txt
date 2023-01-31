@@ -1,9 +1,8 @@
 
 =============================================================================================================================
-Mithun Technologies Marathahalli, Banglore.  Ph: +91-8296242028 / +91-9980923226 
-==============================================================================================================================
 
-Agenda: Kubernetes Setup Using Kubeadm In AWS EC2 Ubuntu Servers Container-D As Runtime
+==============================================================================================================================
+Kubernetes Setup Using Kubeadm In AWS EC2 Ubuntu Servers Container-D As Runtime
 =======
 
 Prerequisite:
