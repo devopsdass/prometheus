@@ -1,0 +1,9 @@
+
+https://github.com/MithunTechnologiesDevOps/
+
+https://computingforgeeks.com/install-prometheus-server-on-debian-ubuntu-linux/
+https://computingforgeeks.com/secure-prometheus-server-with-basic-password-authentication/
+https://computingforgeeks.com/how-to-install-grafana-on-debian-linux/
+https://computingforgeeks.com/monitor-etcd-cluster-with-prometheus-and-grafana/
+
+
